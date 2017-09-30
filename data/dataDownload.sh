@@ -1,1 +1,0 @@
-the data is too big to upload,communicate with me if you want to download the faces data .
